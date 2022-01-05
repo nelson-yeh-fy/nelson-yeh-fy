@@ -24,7 +24,7 @@ I live in New Jersey, the US and currently working at CSI Technology.
 * **ASUS, SDE (Taipei, Taiwan)** : 
 •	Built and rolled out a monitoring tool used by five teams and 80 engineers on the QA and DevOps teams. This tool alerted five main issues in the first three months that would have otherwise gone unnoticed. Made the tool using Android Framework (1,2,3), .Net WPF, and SQLite.
 
-* **Unicom Technology (Tainan, Taiwan)** : 
+* **Unicom Technology, SDE (Tainan, Taiwan)** : 
 •	Built and rolled out an ERP tool adopted by five leading optoelectronic companies. The tool improved their resource management by 100%.
 •	Taught me .Net WCF, WPF, MS Chart and stepped up to integrate them, shipping four weeks ahead of schedule.
 
