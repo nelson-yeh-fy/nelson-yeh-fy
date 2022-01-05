@@ -7,28 +7,25 @@ I live in New Jersey, the US and currently working at CSI Technology.
 #### Work
 * **CSI Technology, SDM (Greater New York, US)** 
 •	Laid out the foundations of a loosely-coupled, event-driven architecture for the product. Written in C#, using Redis, read replica of RDS to ensure 99.99% availability. 
-•	Investigated alternatives to build the MVP in three months. Influenced 10 cross-functional teams and installed Agile to lead the communications and the project. As a result, rolled out the MVP on time and budget.
+•	Influenced 10 cross-functional teams and installed Agile to lead the communications and the project. As a result, rolled out the MVP on time and budget.
  
 * **CSI Technology, SDE (Greater New York, US)** : 
 •	Investigated reliability and accuracy issues of the product. Got management buy-in to rework backend payroll service. Improved the accuracy from 95% to 99%. 
-•	Increased the number of total users by 50% in the downturn. Identified the manually-managed customization as the operation and reliability issue. Investigated alternatives, got management support to migrate ten maintenance projects into a standardized product. Completed it on time.
+•	Increased the number of total users by 50% in the downturn. 
 
 * **Computer Square, SDE (Taipei, Taiwan)** : 
-•	Refactored codebase to take advantage of object-oriented design, reducing total LOC from 1.4M to 1.2M. Investigated alternatives to solve random backend service hanging issues. Ensured 100% of errors triggered appropriate exceptions and increased yearly uptime from 93% to 98%. 
-•	Identified the scalability bottlenecks. Got management buy-in to change to a better system design. Brokedown large monolithic into six loosely-coupled microservices. As a result, improved product availability from 98% to 99.99%.
-
+•	Investigated alternatives to solve random backend service hanging issues. Ensured 100% of errors triggered appropriate exceptions and increased yearly uptime from 93% to 98%. 
+•	Brokedown large monolithic into six loosely-coupled microservices. As a result, improved product availability from 98% to 99.99%.
 
 * **ASUS, SDM (Taipei, Taiwan)** : 
 • Mentored and coached 5 to 6 junior engineers on my team to grow. Put an engineering career ladder in place, helping 30% of the engineers to the next level. 
-•	Investigated alternatives to improve the support teams’ throughput by 50%. Decided on Android Framework, .Net WF, Ruby on Rails. Built and rolled out the MVP and three follow-up versions, helping four teams adopt the tool.
-
+•	Investigated alternatives to improve the support teams’ throughput by 50%. Built and rolled out the MVP and three follow-up versions, helping four teams adopt the tool.
 
 * **ASUS, SDE (Taipei, Taiwan)** : 
 •	Built and rolled out a monitoring tool used by five teams and 80 engineers on the QA and DevOps teams. This tool alerted five main issues in the first three months that would have otherwise gone unnoticed. Made the tool using Android Framework (1,2,3), .Net WPF, and SQLite.
-•	Identified the compatibility and usability issues. Taught me Android framework, Unix, and .Net WF and pioneered their integration into the product. As a result, reducing the maintenance cost by 30%.
 
 * **Unicom Technology (Tainan, Taiwan)** : 
-•	Built and rolled out an ERP tool adopted by five leading optoelectronic companies. The tool improved their resource management by 100%. Developed the application using C#, SQL Server, and Oracle.
+•	Built and rolled out an ERP tool adopted by five leading optoelectronic companies. The tool improved their resource management by 100%.
 •	Taught me .Net WCF, WPF, MS Chart and stepped up to integrate them, shipping four weeks ahead of schedule.
 
 
