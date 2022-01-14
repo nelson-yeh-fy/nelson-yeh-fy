@@ -1,7 +1,4 @@
-Hi, there! 👋
-
-I have hands-on experience migrating monoliths to microservices, and have a keen interest in distributed systems and modern software architecture.
-
+I have experience migrating monoliths to microservices, and have a keen interest in distributed systems and modern software architecture.
 I live in New Jersey, the US and currently working at CSI Technology. 
 
 #### Work
