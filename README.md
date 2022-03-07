@@ -3,16 +3,21 @@ I live in New Jersey, the US and currently working at CSI Technology.
 
 #### Work
 * **CSI Technology, SDM (Greater New York, US)** 
-•	Laid out the foundations of a loosely-coupled, event-driven architecture for the product. Written in C#, using Redis, read replica of RDS to ensure 99.99% availability. 
-•	Influenced 10 cross-functional teams and installed Agile to lead the communications and the project. As a result, rolled out the MVP on time and budget.
+•	Mentored and coached a team of 7 people: 2 leads and 5 developers, helping 50% earn better performance results.
+•	Owned a suite of CAD dispatching services. Drove long-term initiatives to keep them impactful and maintainable.
+•	Built the MVP on time on a budget, which got us a big contract. •	Led out a plan for multi-phased deployments, scoping out projects for 5 teams, taking the system from conception to production, and being my team’s culture vector. As a result, rolled out the deliveries and extended sales.
+
  
 * **CSI Technology, SDE (Greater New York, US)** : 
-•	Investigated reliability and accuracy issues of the product. Got management buy-in to rework backend payroll service. Improved the accuracy from 95% to 99%. 
-•	Increased the number of total users by 50% in the downturn. 
+•	Mentored 2 to 6 mid-level engineers. Took on engineering and product management aspects from leading standups to communicating progress. Worked throughout teams (<5) to align and unblock projects multiple times.
+•	Investigated the bottlenecks of the RMS staff scheduling service. Divided the work into manageable tasks to form a roadmap and ship quickly. Automated hundreds of staff routines and improved the accuracy from 95% to 99%.
+•	Investigated alternatives to build a CAD dispatching service. Built out initiatives to get the team of 6 engineers on board. Led technical discussions and laid out the foundations of loosely-coupled, event-driven architecture. 
+
 
 * **Computer Square, SDE (Taipei, Taiwan)** : 
-•	Investigated alternatives to solve random backend service hanging issues. Ensured 100% of errors triggered appropriate exceptions and increased yearly uptime from 93% to 98%. 
-•	Brokedown large monolithic into six loosely-coupled microservices. As a result, improved product availability from 98% to 99.99%.
+•	Investigated alternatives to solve random backend service hanging issues. Leveraged object-oriented design and ensured 100% of errors triggered appropriate exceptions. Increased yearly uptime from 93% to 99%. 
+•	Identified the reliability issues. Investigated the alternatives and divided up the issue categories. Communicated across organizations to drive the team to deliver fixes quickly. Cut the future support tickets in half.
+
 
 * **ASUS, SDM (Taipei, Taiwan)** : 
 • Mentored and coached 5 to 6 junior engineers on my team to grow. Put an engineering career ladder in place, helping 30% of the engineers to the next level. 
