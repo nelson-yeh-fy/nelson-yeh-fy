@@ -3,9 +3,9 @@ I live in New Jersey, the US and currently working at CSI Technology.
 
 #### Work
 * **CSI Technology, SDM (Greater New York, US)** 
-•	Mentored and coached a team of 7 people: 2 leads and 5 developers, helping 50% earn better performance results.
+•	Mentored and coached a team of 7 people: helping 50% earn better performance results.
 •	Owned a suite of CAD dispatching services. Drove long-term initiatives to keep them impactful and maintainable.
-•	Built the MVP on time on a budget, which got us a big contract. •	Led out a plan for multi-phased deployments, scoping out projects for 5 teams, taking the system from conception to production, and being my team’s culture vector. As a result, rolled out the deliveries and extended sales.
+•	Built the MVP on time on a budget, rolled out the deliveries and extended sales.
 
  
 * **CSI Technology, SDE (Greater New York, US)** : 
